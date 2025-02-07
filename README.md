@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is Clovis de Melo, a fluent English speaker Brazilian with 9+ years of experience in the SaaS/IT environment, working for multinational companies such as IBM, Google, Facebook, Cognizant. 
+
+I also have international experience working for ILAC (International Language Academy of Canada), in Vancouver, Canada where I lived for one year (co-op exchange program) in order to improve my English skills.
+
 <!--
 **clovis-de-melo/clovis-de-melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
