@@ -1,8 +1,15 @@
 ## Hi there, nice to meet you! 
 
-This is Clovis de Melo, a fluent English speaker Brazilian with 9+ years of experience in the SaaS/IT environment, working for multinational companies such as IBM, Google, Facebook, Cognizant. 
+This is Clovis de Melo, a fluent English speaker Brazilian with 9+ years of experience in the SaaS/IT field.
 
-I also have international experience working for ILAC (International Language Academy of Canada), in Vancouver, Canada where I lived for one year (co-op exchange program) in order to improve my English skills.
+### Companies I´ve worked for: 
+
+<img align="left" alt="IBM" width="40px" src="https://cdn.worldvectorlogo.com/logos/ibm.svg" style="padding-right:10px;" />
+<img align="left" alt="Google" width="60px" src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" style="padding-right:10px;" />
+<img align="left" alt="Facebook" width="80px" src="https://cdn.worldvectorlogo.com/logos/facebook-5.svg" style="padding-right:10px;" />
+<img align="left" alt="Cognizant" width="100px" src="https://cdn.worldvectorlogo.com/logos/cognizant-1.svg" style="padding-right:10px;" />
+
+<br />
 
 ### Front-end Languages & Technologies:
 
@@ -27,7 +34,7 @@ I also have international experience working for ILAC (International Language Ac
 
 ### Customer Relationship Management (CRM):
 
-<img align="left" alt="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="48px" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" style="padding-right:10px;" />
 
 <br />
 
