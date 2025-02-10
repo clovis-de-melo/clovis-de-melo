@@ -4,6 +4,8 @@ This is Clovis de Melo, a fluent English speaker Brazilian with 9+ years of expe
 
 I invite you to see my recommendations on my [Linkedin profile](https://www.linkedin.com/in/clovisdemelo/)
 
+Feel free to reach out at: meloclovisdev@gmail.com
+
 ### Companies I´ve worked for: 
 
 <img align="left" alt="IBM" width="40px" src="https://cdn.worldvectorlogo.com/logos/ibm.svg" style="padding-right:10px;" />
