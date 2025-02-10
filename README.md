@@ -21,33 +21,33 @@ Feel free to reach out at: meloclovisdev@gmail.com
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
+<img align="left" alt="YAML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JSON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" style="padding-right:10px;" />
 
 <br />
 
 ### Content Management System (CMS):
 
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" style="padding-right:10px;" />
+<img align="left" alt="Drupal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Wordpress" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" style="padding-right:10px;" />
+<img align="left" alt="AEM" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" style="padding-right:10px;" />
 
 <br /> 
 
 ### Customer Relationship Management (CRM):
 
-<img align="left" alt="React" width="48px" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" style="padding-right:10px;" />
+<img align="left" alt="Salesforce" width="48px" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" style="padding-right:10px;" />
 
 <br />
 
 ### Project & Ticket Management tools: 
 
-<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/trello.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="100px" src="https://cdn.worldvectorlogo.com/logos/airtable-1.svg" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="26px" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" style="padding-right:10px;" />
+<img align="left" alt="Trello" width="26px" src="https://cdn.worldvectorlogo.com/logos/trello.svg" style="padding-right:10px;" />
+<img align="left" alt="Monday" width="26px" src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" style="padding-right:10px;" />
+<img align="left" alt="AirTable" width="100px" src="https://cdn.worldvectorlogo.com/logos/airtable-1.svg" style="padding-right:10px;" />
 
 
 
