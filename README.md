@@ -44,7 +44,7 @@ Feel free to reach out at: meloclovisdev@gmail.com
 
 ### Application Programming Interface (API):
 
-<img align="left" alt="Postman" width="38px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" />
+ <a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" width="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" /></a>
 
 <br />
 
