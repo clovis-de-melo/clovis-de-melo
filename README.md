@@ -2,7 +2,7 @@
 
 This is Clovis de Melo, a fluent English speaker Brazilian with 9+ years of experience in the SaaS/IT field.
 
-I invite you to see my recommendations on my [Linkedin profile](https://www.linkedin.com/in/clovisdemelo/)
+Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 
 ## Companies I´ve worked for: 
 
