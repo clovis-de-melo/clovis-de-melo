@@ -12,6 +12,7 @@ I invite you to see my recommendations on my [Linkedin profile](https://www.link
 <img align="left" alt="Cognizant logo" title="Cognizant" width="120px" src="https://cdn.worldvectorlogo.com/logos/cognizant-1.svg" style="padding-right:10px;" />
 
 <br />
+<br />
 
 ## Languages & Technologies:
 
@@ -25,6 +26,7 @@ I invite you to see my recommendations on my [Linkedin profile](https://www.link
 <img align="left" alt="JSON logo" title="JSON" width="24px" src="https://thumbs.dreamstime.com/b/file-formats-vector-icon-illustration-json-271389655.jpg" style="padding-right:10px;" />
 
 <br />
+<br />
 
 ## Content Management System (CMS):
 
@@ -33,17 +35,27 @@ I invite you to see my recommendations on my [Linkedin profile](https://www.link
 <img align="left" alt="AEM" title="Adobe Experience Manager (AEM)" width="30px" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" style="padding-right:10px;" />
 
 <br /> 
+<br />
 
 ## Customer Relationship Management (CRM):
 
 <img align="left" alt="Salesforce logo" title="Salesforce" width="55px" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" style="padding-right:10px;" />
 
 <br />
+<br />
 
 ## Application Programming Interface (API):
 
  <a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman logo" title="Postman" width="35px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" /></a>
 
+<br />
+<br />
+
+## FTP (File Transfer Protocol) server management:
+
+<img align="left" alt="Filezilla logo" title="FileZilla" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1024px-FileZilla_logo.svg.png" style="padding-right:10px;" />
+
+<br />
 <br />
 
 ## Project & Ticket Management tools: 
