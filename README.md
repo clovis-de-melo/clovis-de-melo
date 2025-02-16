@@ -36,7 +36,7 @@ I invite you to see my recommendations on my [Linkedin profile](https://www.link
 
 ## Customer Relationship Management (CRM):
 
-<img align="left" alt="Salesforce logo" text="Salesforce" width="55px" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" style="padding-right:10px;" />
+<img align="left" alt="Salesforce logo" title="Salesforce" width="55px" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" style="padding-right:10px;" />
 
 <br />
 
