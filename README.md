@@ -51,7 +51,7 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 <br />
 <br />
 
-## FTP (File Transfer Protocol) server management:
+## Server management:
 
 <img align="left" alt="Filezilla logo" title="FileZilla" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1024px-FileZilla_logo.svg.png" style="padding-right:10px;" />
 
