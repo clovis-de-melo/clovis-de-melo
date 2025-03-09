@@ -20,8 +20,8 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 <img align="left" alt="CSS3 logo" title="CSS 3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript logo" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JSON logo" title="JSON" width="30px" src="https://media.lordicon.com/icons/wired/gradient/1320-json.svg" style="padding-right:10px;" />
-<img align="left" alt="React logo" title="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python logo" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React logo" title="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> 
+<!-- <img align="left" alt="Python logo" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /> -->
 <img align="left" alt="Gatsby logo" title="Gatsby" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
 <!-- <img align="left" alt="YAML logo" title="YAML" width="26px" src="https://png.pngtree.com/png-vector/20190330/ourmid/pngtree-yaml-file-document-icon-png-image_897270.jpg" style="padding-right:10px;" /> -->
 <img align="left" alt="Drupal" title="Drupal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" style="padding-right:10px;" />
