@@ -1,6 +1,6 @@
 # Hi there, nice to meet you! 
 
-I am a Fluent English speaker Brazilian with a Technical Support background, working for multinational companies such as Google, Facebook, Cognizant and four years of experience as a Web Developer, working for IBM. 
+I am a Fluent English speaker Brazilian with a Technical Support background and four years of experience as a Web Developer.
 
 Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 
