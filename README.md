@@ -1,6 +1,6 @@
 # Hi there, nice to meet you! 
 
-This is Clovis de Melo, a fluent English speaker Brazilian with 9+ years of experience in the SaaS/IT field.
+I am a Fluent English speaker Brazilian with a Technical Support background, working for multinational companies such as Google, Facebook, Cognizant and four years of experience as a Web Developer, working for IBM. 
 
 Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 
