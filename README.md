@@ -15,38 +15,74 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 <br />
 
 ## Languages & Technologies:
+<br />
 
-<img align="left" alt="HTML5 logo" title="HTML 5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3 logo" title="CSS 3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript logo" title="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JSON logo" title="JSON" width="30px" src="https://media.lordicon.com/icons/wired/gradient/1320-json.svg" style="padding-right:10px;" />
-<img align="left" alt="React logo" title="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> 
-<!-- <img align="left" alt="Python logo" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /> -->
-<img align="left" alt="Gatsby logo" title="Gatsby" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<!-- <img align="left" alt="YAML logo" title="YAML" width="26px" src="https://png.pngtree.com/png-vector/20190330/ourmid/pngtree-yaml-file-document-icon-png-image_897270.jpg" style="padding-right:10px;" /> -->
-<img align="left" alt="Drupal" title="Drupal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Wordpress" title="Wordpress" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" style="padding-right:10px;" />
-<img align="left" alt="AEM" title="Adobe Experience Manager (AEM)" width="26px" src="https://i.pinimg.com/474x/5b/76/04/5b76049bf5e7b52b4652aabdf2296e73.jpg" style="padding-right:10px;" />
-<img align="left" alt="Salesforce logo" title="Salesforce" width="35px" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" style="padding-right:10px;" />
-<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman logo" title="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" /></a>
-<img align="left" alt="Filezilla logo" title="FileZilla" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1024px-FileZilla_logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Jira logo" title="Jira" width="26px" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" style="padding-right:10px;" />
-<img align="left" alt="Trello logo" title="Trello" width="20px" src="https://cdn.worldvectorlogo.com/logos/trello.svg" style="padding-right:10px;" />
-<img align="left" alt="Monday logo" title="Monday" width="30px" src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" style="padding-right:10px;" />
-<img align="left" alt="AirTable logo" title="AirTable" width="26px" src="https://www.svgrepo.com/show/353383/airtable.svg" style="padding-right:10px;" />
-
-<!--
-**clovis-de-melo/clovis-de-melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<table>
+  <tr>
+      <td align="center" width="85">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40" />
+        <br>HTML
+      </td>
+      <td align="center" width="85">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+        <br>CSS
+      </td>
+      <td align="center" width="85">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="React" width="40" height="40" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="85">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Next.js" />
+        <br>React
+      </td>
+      <td align="center" width="85">
+        <img src="https://media.lordicon.com/icons/wired/gradient/1320-json.svg" width="40" height="40" alt="Vue" />
+        <br>JSON
+      </td>
+      <td align="center" width="85">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40" alt="Nuxt.js" />
+        <br>Drupal
+      </td>
+      <td align="center" width="85">
+        <img src="https://i.pinimg.com/474x/5b/76/04/5b76049bf5e7b52b4652aabdf2296e73.jpg" width="40" height="40" alt="Angular" />
+        <br>AEM
+      </td>
+      <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="Three.js" />
+        <br>WordPress
+      </td>
+    </tr>
+    <tr>
+        <td align="center" width="85">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="40" height="40" alt="Rust" />
+            <br>Gatsby
+          </td>
+        <td align="center" width="85">
+          <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" width="40" height="40" alt="Python" />
+          <br>Salesforce
+        <td align="center" width="85">
+            <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="C#" />
+            <br>Postman
+        </td>
+        <td align="center" width="85">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1024px-FileZilla_logo.svg.png" width="40" height="40" alt="Solidity" />
+            <br>FileZilla
+        </td>
+        <td align="center" width="85">
+            <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="40" height="40" alt="php" />
+            <br>Jira
+        </td>
+        <td align="center" width="85">
+          <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="icon" width="40" height="40" />
+          <br>Trello
+        </td>
+        <td align="center" width="85">
+          <img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" width="40" height="40" alt="Laravel" />
+          <br>Monday
+        </td>
+        <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/353383/airtable.svg" width="40" height="40" alt="rails" />
+          <br>Airtable
+        </td>
+    </tr>
+</table>
