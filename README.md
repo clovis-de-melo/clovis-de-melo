@@ -107,6 +107,23 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         <br>FileZilla
       </td>
     </tr>
+    <tr> 
+      <td>
+        Documentation
+      </td>
+         <td align="center" width="85">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Markdown-blue-solid.svg/2560px-Markdown-blue-solid.svg.png" width="40" height="40" alt="FleZilla" />
+        <br>Markdown
+      </td>
+        <td align="center" width="85">
+        <img src="https://static.macupdate.com/products/58608/m/box-notes-logo.png?v=1568334105" width="40" height="40" alt="FleZilla" />
+        <br>Box
+      </td>
+      <td align="center" width="85">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg.png" width="40" height="40" alt="FleZilla" />
+        <br>OneNote
+      </td>
+    </tr>
    <tr>
      <td>
         Project management
