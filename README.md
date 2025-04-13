@@ -58,7 +58,7 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
     </tr>
     <tr>
     <td>
-        CMS
+        CMS (Author & Editor)
       </td> 
     <td align="center" width="85">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40" alt="Nuxt.js" />
