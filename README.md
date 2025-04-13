@@ -14,7 +14,7 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 <br />
 <br />
 
-## Languages & Technologies:
+## Languages, technologies & tools:
 <br />
 
 <table>
