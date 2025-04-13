@@ -87,7 +87,7 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
     </tr>
     <tr> 
       <td>
-        Data
+        Data management
       </td>
         <td align="center" width="85">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/640px-JSON_vector_logo.svg.png" width="40" height="40" alt="Vue" />
