@@ -97,6 +97,10 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
             <img src="https://www.svgrepo.com/show/373802/light-yaml.svg" width="40" height="40" alt="YAML" />
             <br>YAML
         </td>
+      <td align="center" width="85">
+            <img src="https://www.svgrepo.com/show/375305/xml-document.svg" width="40" height="40" alt="XML" />
+            <br>XML        
+      </td>
     </tr>
     <tr> 
       <td>
