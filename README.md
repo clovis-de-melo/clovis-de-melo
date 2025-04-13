@@ -19,6 +19,9 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 
 <table>
   <tr>
+      <td>
+        Front-end
+      </td>  
       <td align="center" width="85">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40" />
         <br>HTML
@@ -31,15 +34,24 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="React" width="40" height="40" />
         <br>JavaScript
       </td>
+    </tr>
+    <tr>
+      <td>
+        Framework
+      </td>
       <td align="center" width="85">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Next.js" />
         <br>React
       </td>
       <td align="center" width="85">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/640px-JSON_vector_logo.svg.png" width="40" height="40" alt="Vue" />
-        <br>JSON
-      </td>
-      <td align="center" width="85">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="40" height="40" alt="Rust" />
+            <br>Gatsby
+          </td>
+    <tr>
+    <td>
+        CMS
+      </td> 
+    <td align="center" width="85">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40" alt="Nuxt.js" />
         <br>Drupal
       </td>
@@ -52,71 +64,59 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         <br>WordPress
       </td>
     </tr>
-    <tr>
+    <tr> 
+      <td>
+        Database
+      </td>
         <td align="center" width="85">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="40" height="40" alt="Rust" />
-            <br>Gatsby
-          </td>
+          <img src="https://www.svgrepo.com/show/439233/mysql.svg"" width="40" height="40" alt="MySQL" />
+          <br>MySQL
         <td align="center" width="85">
-          <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" width="40" height="40" alt="Python" />
-          <br>Salesforce
-        <td align="center" width="85">
-            <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="C#" />
-            <br>Postman
-        </td>
-        <td align="center" width="85">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1024px-FileZilla_logo.svg.png" width="40" height="40" alt="Solidity" />
-            <br>FileZilla
-        </td>
-        <td align="center" width="85">
-            <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="40" height="40" alt="php" />
-            <br>Jira
-        </td>
-        <td align="center" width="85">
-          <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="icon" width="40" height="40" />
-          <br>Trello
-        </td>
-        <td align="center" width="85">
-          <img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" width="40" height="40" alt="Laravel" />
-          <br>Monday
-        </td>
-        <td align="center" width="85">
-          <img src="https://www.svgrepo.com/show/353383/airtable.svg" width="40" height="40" alt="rails" />
-          <br>Airtable
+            <img src="https://popsql.com/static/favicon/apple-touch-icon.png" width="40" height="40" alt="PopSQL" />
+            <br>PopSQL
         </td>
     </tr>
+    <tr> 
+      <td>
+        Data
+      </td>
+        <td align="center" width="85">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/640px-JSON_vector_logo.svg.png" width="40" height="40" alt="Vue" />
+        <br>JSON
+      </td>
+      <td align="center" width="85">
+            <img src="https://www.svgrepo.com/show/373802/light-yaml.svg" width="40" height="40" alt="YAML" />
+            <br>YAML
+        </td>
+    </tr>
+    <tr> 
+      <td>
+        Server management
+      </td>
+        <td align="center" width="85">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1024px-FileZilla_logo.svg.png" width="40" height="40" alt="FleZilla" />
+        <br>FileZilla
+      </td>
+    </tr>
    <tr>
+     <td>
+        Project management
+      </td>
         <td align="center" width="85">
-          <img src="https://www.svgrepo.com/show/439233/mysql.svg" width="40" height="40" alt="MySQL" />
-            <br>MySQL
-          </td>
-        <td align="center" width="85">
-          <img src="https://popsql.com/static/favicon/apple-touch-icon.png" width="40" height="40" alt="Pop SQL" />
-          <br>PopSQL
+          <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="40" height="40" alt="Jira" />
+          <br>Jira
         </td>
        <td align="center" width="85">
-          <img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40" alt="Python" />
-          <br>Python
+          <img src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" width="40" height="40" alt="Monday" />
+          <br>Monday
         </td>
        <td align="center" width="85">
-          <img src="https://www.svgrepo.com/show/452210/git.svg" width="40" height="40" alt="Python" />
-          <br>Git
+          <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="40" height="40" alt="Trello" />
+          <br>Trello
         </td>
-      <td align="center" width="85">
-          <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" height="40" alt="Github" />
-          <br>Github
+       <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/353383/airtable.svg" width="40" height="40" alt="Airtable" />
+          <br>Airtable
         </td>
-      <td align="center" width="85">
-          <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="40" height="40" alt="Github" />
-          <br>VSCode
-        </td>
-      <td align="center" width="85">
-          <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" height="40" alt="Bash" />
-          <br>Bash
-        </td>
-      <td align="center" width="85">
-          <img src="https://www.svgrepo.com/show/373802/light-yaml.svg" width="40" height="40" alt="Bash" />
-          <br>YAML
-        </td>
-   </tr>  
+   </tr>
 </table>
