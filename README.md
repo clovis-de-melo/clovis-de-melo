@@ -113,6 +113,33 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
     </tr>
     <tr> 
       <td>
+        API
+      </td>
+        <td align="center" width="85">
+        <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="FleZilla" />
+        <br>Postman
+      </td>
+    </tr>
+    <tr> 
+      <td>
+        Package & Node manager
+      </td>
+        <td align="center" width="85">
+        <img src="https://images.icon-icons.com/2407/PNG/512/npm_icon_146141.png" width="40" height="40" alt="FleZilla" />
+        <br>npm
+      </td>
+      </td>
+        <td align="center" width="85">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-yarn-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-7-pack-logos-icons-2945248.png" width="40" height="40" alt="FleZilla" />
+        <br>Yarn
+      </td>
+      <td align="center" width="85">
+        <img src="https://www.svgrepo.com/show/378837/node.svg" width="40" height="40" alt="FleZilla" />
+        <br>nvm
+      </td>
+    </tr>
+    <tr> 
+      <td>
         Documentation
       </td>
          <td align="center" width="85">
