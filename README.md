@@ -119,4 +119,46 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
           <br>Airtable
         </td>
    </tr>
+  <tr>
+     <td>
+        Design tools
+      </td>
+        <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/448222/figma.svg" width="40" height="40" alt="Figma" />
+          <br>Figma
+        </td>
+       <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/475660/invision-color.svg" width="40" height="40" alt="Invision" />
+          <br>Invision
+        </td>
+       <td align="center" width="85">
+          <img src="https://w7.pngwing.com/pngs/885/629/png-transparent-miro-hd-logo.png" width="40" height="40" alt="Miro" />
+          <br>Miro
+        </td>
+       <td align="center" width="85">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgA4I5cT8cCr0hpEhM0hVOSYgFmZSpO8c0g&s" width="40" height="40" alt="Airtable" />
+          <br>Mural
+        </td>
+   </tr>
+  <tr>
+     <td>
+        Communication tools
+      </td>
+        <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/448248/slack.svg" width="40" height="40" alt="Slack" />
+          <br>Slack
+        </td>
+       <td align="center" width="85">
+          <img src="https://play-lh.googleusercontent.com/tFFAvb_eZM5BlHYFiuyVwhM54o7mvfCOFX3AGbgTULfKpEancPmZnP1PRu44CZiZgyI=w240-h480-rw" width="40" height="40" alt="Webex" />
+          <br>Webex
+        </td>
+       <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/452111/teams.svg" width="40" height="40" alt="Teams" />
+          <br>Teams
+        </td>
+       <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/331273/zoom.svg" width="40" height="40" alt="Airtable" />
+          <br>Zoom
+        </td>
+   </tr>
 </table>
