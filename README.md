@@ -36,7 +36,7 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         <br>React
       </td>
       <td align="center" width="85">
-        <img src="https://media.lordicon.com/icons/wired/gradient/1320-json.svg" width="40" height="40" alt="Vue" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/640px-JSON_vector_logo.svg.png" width="40" height="40" alt="Vue" />
         <br>JSON
       </td>
       <td align="center" width="85">
@@ -44,7 +44,7 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         <br>Drupal
       </td>
       <td align="center" width="85">
-        <img src="https://i.pinimg.com/474x/5b/76/04/5b76049bf5e7b52b4652aabdf2296e73.jpg" width="40" height="40" alt="Angular" />
+        <img src="https://play-lh.googleusercontent.com/M0EbiHoIfKWl4o5lA8aznDVsQsxt3URs6G6_kCdgtR1g7yvhWJFmVthZUUXH0-HZxzY" width="40" height="40" alt="Angular" />
         <br>AEM
       </td>
       <td align="center" width="85">
