@@ -169,6 +169,10 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgA4I5cT8cCr0hpEhM0hVOSYgFmZSpO8c0g&s" width="40" height="40" alt="Airtable" />
           <br>Mural
         </td>
+      <td align="center" width="85">
+          <img src="https://public.canva.site/logo/media/dfb96cc174513093cd6ed61489ccb750.svg" width="40" height="40" alt="Airtable" />
+          <br>Canva
+        </td>
    </tr>
   <tr>
      <td>
