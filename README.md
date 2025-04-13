@@ -24,15 +24,19 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
       </td>  
       <td align="center" width="85">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40" />
-        <br>HTML
+        <br>HTML 5
       </td>
       <td align="center" width="85">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-        <br>CSS
+        <br>CSS 3
       </td>
       <td align="center" width="85">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="React" width="40" height="40" />
         <br>JavaScript
+      </td>
+      <td align="center" width="85">
+        <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="40" height="40" />
+        <br>Python
       </td>
     </tr>
     <tr>
@@ -40,13 +44,18 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         Framework
       </td>
       <td align="center" width="85">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Next.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
         <br>React
       </td>
       <td align="center" width="85">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="40" height="40" alt="Rust" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="40" height="40" alt="Gatsby" />
             <br>Gatsby
           </td>
+      <td align="center" width="85">
+          <img src="https://ia802206.us.archive.org/4/items/github.com-streamlit-streamlit_-_2022-05-25_17-48-00/cover.jpg" width="40" height="40" alt="Streamlit" />
+            <br>Streamlit
+          </td>
+    </tr>
     <tr>
     <td>
         CMS
