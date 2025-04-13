@@ -48,7 +48,7 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         <br>AEM
       </td>
       <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="Three.js" />
+        <img src="https://www.svgrepo.com/show/349568/wordpress.svg" width="40" height="40" alt="Three.js" />
         <br>WordPress
       </td>
     </tr>
@@ -93,6 +93,26 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         <td align="center" width="85">
           <img src="https://popsql.com/static/favicon/apple-touch-icon.png" width="40" height="40" alt="Pop SQL" />
           <br>PopSQL
+        </td>
+       <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40" alt="Python" />
+          <br>Python
+        </td>
+       <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/452210/git.svg" width="40" height="40" alt="Python" />
+          <br>Git
+        </td>
+      <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" height="40" alt="Github" />
+          <br>Github
+        </td>
+      <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="40" height="40" alt="Github" />
+          <br>VSCode
+        </td>
+      <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" height="40" alt="Bash" />
+          <br>Bash
         </td>
    </tr>  
 </table>
