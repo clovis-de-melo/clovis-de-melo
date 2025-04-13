@@ -85,4 +85,14 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
           <br>Airtable
         </td>
     </tr>
+   <tr>
+        <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/439233/mysql.svg" width="40" height="40" alt="MySQL" />
+            <br>MySQL
+          </td>
+        <td align="center" width="85">
+          <img src="https://popsql.com/static/favicon/apple-touch-icon.png" width="40" height="40" alt="Pop SQL" />
+          <br>PopSQL
+        </td>
+   </tr>  
 </table>
