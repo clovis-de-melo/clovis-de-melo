@@ -162,12 +162,24 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
           <br>Webex
         </td>
        <td align="center" width="85">
+          <img src="https://play-lh.googleusercontent.com/Vd8nWYsoUSZfQMhs6P9iYHxlYq99L5lK9e9j-rAdnaMN395zwmUyry1INHcF-WNqiQM" width="40" height="40" alt="Workplace" />
+          <br>Workplace
+        </td>
+       <td align="center" width="85">
           <img src="https://www.svgrepo.com/show/452111/teams.svg" width="40" height="40" alt="Teams" />
           <br>Teams
         </td>
        <td align="center" width="85">
           <img src="https://www.svgrepo.com/show/331273/zoom.svg" width="40" height="40" alt="Airtable" />
           <br>Zoom
+        </td>
+      <td align="center" width="85">
+          <img src="https://static-00.iconduck.com/assets.00/google-meet-icon-256x256-s2dffkqy.png" width="40" height="40" alt="Airtable" />
+          <br>Meet
+        </td>
+      <td align="center" width="85">
+          <img src="https://mailmeteor.com/logos/assets/PNG/Google_Chat_Logo_512px.png" width="40" height="40" alt="Airtable" />
+          <br>Chat
         </td>
    </tr>
 </table>
