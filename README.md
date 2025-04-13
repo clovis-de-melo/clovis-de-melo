@@ -175,6 +175,14 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
           <img src="https://www.svgrepo.com/show/353383/airtable.svg" width="40" height="40" alt="Airtable" />
           <br>Airtable
         </td>
+       <td align="center" width="85">
+          <img src="https://play-lh.googleusercontent.com/tx6KvUHxMaVEPnQZcRn2_Nqn8-cFqQsoJknZBtGRgzYFB_D5PvRmjHU397wLst9YZB0" width="40" height="40" alt="Airtable" />
+          <br>ServiceNow
+        </td>
+       <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/373589/excel.svg" width="40" height="40" alt="Airtable" />
+          <br>Excel
+        </td>
    </tr>
   <tr>
      <td>
