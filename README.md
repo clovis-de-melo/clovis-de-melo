@@ -4,7 +4,7 @@ I'm a fluent English speaker Brazilian with a Technical Support background and f
 
 Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 
-## Companies I've worked for: 
+## Relevant experience: 
 
 <img align="left" alt="IBM logo" title="IBM" width="65px" src="https://cdn.worldvectorlogo.com/logos/ibm.svg" style="padding-right:10px;" />
 <img align="left" alt="Google logo" title="Google" width="90px" src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" style="padding-right:10px;" />
