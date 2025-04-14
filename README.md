@@ -34,7 +34,12 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="React" width="40" height="40" />
         <br>JavaScript
       </td>
-      <td align="center" width="85">
+    </tr>
+    <tr> 
+      <td>
+        Back-end
+      </td>
+        <td align="center" width="85">
         <img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" width="40" height="40" />
         <br>Python
       </td>
