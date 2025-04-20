@@ -78,6 +78,15 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         <br>WordPress
       </td>
     </tr>
+     <tr>
+     <td>
+        CRM
+      </td> 
+    <td align="center" width="85">
+        <img src="https://www.svgrepo.com/show/303235/salesforce-2-logo.svg" width="60" height="50" alt="Nuxt.js" />
+        <br>Salesforce
+    </td>    
+     </tr>
     <tr> 
       <td>
         Database
