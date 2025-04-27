@@ -291,6 +291,10 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
           <img src="https://mailmeteor.com/logos/assets/PNG/Google_Chat_Logo_512px.png" width="40" height="40" alt="Airtable" />
           <br>Chat
         </td>
+      <td align="center" width="85">
+          <img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/665056b0b9f0aaeb15acd1e3_c146dfbd-6a93-5066-ab44-0e144b908e7e.svg" width="40" height="40" alt="Airtable" />
+          <br>Slido
+        </td>
    </tr>
     <tr>
      <td>
