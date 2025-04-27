@@ -116,6 +116,18 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
     </tr>
     <tr> 
       <td>
+        Command-line interface
+      </td>
+        <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/373992/powershell.svg" width="40" height="40" alt="MySQL" />
+          <br>Powershell
+        <td align="center" width="85">
+            <img src="https://www.svgrepo.com/show/362176/terminal.svg" width="40" height="40" alt="PopSQL" />
+            <br>Terminal
+        </td>
+    </tr>
+    <tr> 
+      <td>
         Data management
       </td>
         <td align="center" width="85">
