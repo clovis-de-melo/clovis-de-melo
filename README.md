@@ -278,4 +278,17 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
           <br>Chat
         </td>
    </tr>
+    <tr>
+     <td>
+        Operating Systems
+      </td> 
+    <td align="center" width="85">
+        <img src="https://www.svgrepo.com/show/349566/windows.svg" width="50" height="50" alt="Nuxt.js" />
+        <br>Windows
+    </td>
+    <td align="center" width="85">
+        <img src="https://www.svgrepo.com/show/387985/mac-finder.svg" width="50" height="50" alt="Nuxt.js" />
+        <br>Mac
+    </td>   
+     </tr>
 </table>
