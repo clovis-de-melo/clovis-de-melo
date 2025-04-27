@@ -104,7 +104,7 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
     </tr>
     <tr> 
       <td>
-        Version Control
+        Version control
       </td>
         <td align="center" width="85">
           <img src="https://www.svgrepo.com/show/452210/git.svg" width="40" height="40" alt="MySQL" />
