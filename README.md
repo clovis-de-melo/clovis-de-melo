@@ -1,6 +1,8 @@
 # Hi there, nice to meet you! 
 
-I'm a fluent English speaker Brazilian with a Technical Support background and four years of experience as a Web Content Analyst.
+I'm a fluent English speaker Brazilian with a Technical Support background and over four years of experience in the Agile Web Development environment.
+
+I'm currently working as a Senior Content Editor at EPAM Systems.
 
 Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 
