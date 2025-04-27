@@ -102,6 +102,18 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
     </tr>
     <tr> 
       <td>
+        Version Control
+      </td>
+        <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/452210/git.svg" width="40" height="40" alt="MySQL" />
+          <br>Git
+        <td align="center" width="85">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40" height="40" alt="PopSQL" />
+            <br>GitHub
+        </td>
+    </tr>
+    <tr> 
+      <td>
         Data management
       </td>
         <td align="center" width="85">
