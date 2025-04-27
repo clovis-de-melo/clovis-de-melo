@@ -236,6 +236,15 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
           <br>Canva
         </td>
    </tr>
+   <tr> 
+      <td>
+        Design system
+      </td>
+        <td align="center" width="85">
+        <img src="https://avatars.githubusercontent.com/u/25179978?s=200&v=4" alt="Python" width="40" height="40" />
+        <br>Carbon
+      </td>
+    </tr>
   <tr>
      <td>
         Communication tools
