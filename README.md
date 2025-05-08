@@ -264,6 +264,10 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         Communication tools
       </td>
         <td align="center" width="85">
+          <img src="https://www.svgrepo.com/show/452067/ms-outlook.svg" width="40" height="40" alt="Slack" />
+          <br>Outlook
+        </td>
+        <td align="center" width="85">
           <img src="https://www.svgrepo.com/show/448248/slack.svg" width="40" height="40" alt="Slack" />
           <br>Slack
         </td>
