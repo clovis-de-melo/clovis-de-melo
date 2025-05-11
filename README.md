@@ -52,6 +52,10 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
         Framework
       </td>
       <td align="center" width="85">
+        <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="40" height="40" alt="Bootstrapt logo" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="85">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
         <br>React
       </td>
