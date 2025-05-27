@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello world, nice to meet you! 
 
-<!--
-**clovis-de-melo/clovis-de-melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fluent English speaker Brazilian with a Technical Support background and over four years of experience in the Agile Web Development environment.
 
-Here are some ideas to get you started:
+I'm currently working as a Senior Content Editor at EPAM Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
+
+## Relevant experience: 
+
+<img align="left" alt="EPAM logo" title="EPAM" width="95px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Effective_Programming_for_America_logo.svg/1200px-Effective_Programming_for_America_logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="IBM logo" title="IBM" width="65px" src="https://cdn.worldvectorlogo.com/logos/ibm.svg" style="padding-right:10px;" />
+<img align="left" alt="Google logo" title="Google" width="100px" src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" style="padding-right:10px;" />
+<img align="left" alt="Facebook logo" title="Facebook" width="135px" src="https://cdn.worldvectorlogo.com/logos/facebook-5.svg" style="padding-right:10px;" />
+<img align="left" alt="Cognizant logo" title="Cognizant" width="140px" src="https://cdnlogo.com/logos/c/54/cognizants.svg" style="padding-right:10px;" />
