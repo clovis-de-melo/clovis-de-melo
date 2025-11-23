@@ -1,8 +1,6 @@
 # Hello world, nice to meet you! 
 
-I'm a fluent English speaker Brazilian with a Technical Support background and over four years of experience in the Agile Web Development environment.
-
-I'm currently working as a Senior Content Editor at EPAM Systems.
+Senior CMS Content Author/Editor with 5 years of combined web content experience at IBM and EPAM Systems and three Adobe certifications. Strong technical foundation from previous support roles at Google, Facebook, and Cognizant. Expertise in content management systems, digital content authoring, and front-end technologies. Proven track record of delivering high-quality content and user experiences. Bilingual professional (English/Portuguese) with international study and work experience in Vancouver, Canada.
 
 Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 
