@@ -6,7 +6,7 @@ Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 
 ## Relevant experience: 
 
-<img align="left" alt="EPAM logo" title="EPAM" width="95px" src="assets/epam_logo_light.svg" style="padding-right:10px;" />
+<img align="left" alt="EPAM logo" title="EPAM" width="95px" src="assets/epam_logo_blue.svg" style="padding-right:10px;" />
 <img align="left" alt="IBM logo" title="IBM" width="65px" src="https://cdn.worldvectorlogo.com/logos/ibm.svg" style="padding-right:10px;" />
 <img align="left" alt="Google logo" title="Google" width="100px" src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" style="padding-right:10px;" />
 <img align="left" alt="Facebook logo" title="Facebook" width="135px" src="https://cdn.worldvectorlogo.com/logos/facebook-5.svg" style="padding-right:10px;" />
