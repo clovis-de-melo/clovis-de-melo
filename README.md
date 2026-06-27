@@ -1,6 +1,6 @@
 # Hello world, nice to meet you! 
 
-Senior CMS Content Author/Editor with 5 years of combined web content experience at IBM and EPAM Systems and three Adobe certifications. Strong technical foundation from previous support roles at Google, Facebook, and Cognizant. Expertise in content management systems, digital content authoring, and front-end technologies. Proven track record of delivering high-quality content and user experiences. Bilingual professional (English/Portuguese) with international study and work experience in Vancouver, Canada.
+Senior CMS Content Manager with 9+ years in the tech industry and 5+ years specializing in enterprise web content management. Expertise in multilingual site management, content migration, digital asset management (DAM), and front-end technologies (HTML, CSS). Proven track record of delivering enterprise-scale content for global Fortune 500 clients. English-proficient professional with extensive experience collaborating within cross-functional marketing Agile teams in NA, LATAM, EMEA, and APAC, complemented by international academic and professional experience in Vancouver, Canada.
 
 Feel free to add me on [Linkedin](https://www.linkedin.com/in/clovisdemelo/).
 
